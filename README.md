@@ -1,5 +1,6 @@
-# 42-iniciativa-open-source
-Iniciativa Open Source dos cadetes da 42 São Paulo. A gente não sabe o que é ainda, mas vamos descobrir!
+Você já ouviu falar da Iniciativa Open Source?
+
+A gente não sabe o que é ainda, mas vamos descobrir!
 
 Board principal: https://trello.com/b/gesIlQdL/iniciativa-open-source
 
